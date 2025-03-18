@@ -1,4 +1,4 @@
-Group,Group_num,UNIT NAME,Capacity_MW,Fuel_Cost_USDperMWH,Var_OandM_USDperMWH,Var_Cost_USDperMWH,Carbon_tonsperMWH,FixedCst_OandM_perRound,Plant_ID
+Group,Group_num,UNIT NAME,Capacity_MW,Fuel_Cost_USDperMWH,Var_OandM_USDperMWH,Var_Cost_USDperMWH,Carbon_tonsperMWH,FixedCst_OandM_perDay,Plant_ID
 Big Coal,1,FOUR CORNERS,1900,35,1.5,36.5,1.1,8000,11
 Big Coal,1,ALAMITOS 7,250,72.22,1.5,73.72,0.85,0,12
 Big Coal,1,HUNTINGTON BEACH 1&2,300,39,1.5,40.5,0.46,2000,13
